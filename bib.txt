@@ -1,0 +1,6 @@
+@InProceedings{ding2023diffusionrig,
+      author    = {Zheng Ding, Cecilia Zhang, Zhihao Xia, Lars Jebe, Zhuowen Tu and Xiuming Zhang},
+      title     = {DiffusionRig: Learning Personalized Priors for Facial Appearance Editing},
+      booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+      year      = {2023},
+}
