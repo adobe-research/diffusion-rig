@@ -5,7 +5,7 @@
 [Zhihao Xia](https://likesum.github.io), [Lars Jebe](https://lcjebe.github.io),
 [Zhuowen Tu](https://pages.ucsd.edu/~ztu), [Xiuming Zhang](https://xiuming.info)
 <br>CVPR 2023<br>
-[arXiv]() / [Project Page](https://diffusionrig.github.io) / [Video](https://www.youtube.com/watch?v=6ZQbiNiJJEE) / [BibTex](bib.txt)
+[arXiv](https://arxiv.org/pdf/2304.06711.pdf) / [Project Page](https://diffusionrig.github.io) / [Video](https://www.youtube.com/watch?v=6ZQbiNiJJEE) / [BibTex](bib.txt)
 
 ![teaser](figs/teaser.webp)
 
