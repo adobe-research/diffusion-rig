@@ -103,6 +103,8 @@ mpiexec -n 1 python scripts/train.py --latent_dim 64 --encoder_type resnet18 \
 
 It takes around 30 minutes on a single Nvidia V100 GPU.
 
+*(New as of 10/13/2023)*: We released some of the stage 2 training datasets we used in our paper for research purposes only. Please download them through the [Google Drive Link](https://drive.google.com/drive/folders/1h0xam4R8BgW95kjaxETQnrQ6TB5ucKr7?usp=sharing).
+
 ## Inference
 
 We provide a script to edit face appearance by modifying the physical buffers. Run:
